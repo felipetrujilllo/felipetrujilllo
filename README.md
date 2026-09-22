@@ -1,6 +1,4 @@
-# <img align="right" width="180" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-# Felipe Trujillo
+![Felipe Trujillo](assets/banner.jpg)
 
 CS student at Florida International University, building full-stack applications and infrastructure. Currently seeking **Summer 2027 SWE internships**.
 
@@ -12,9 +10,22 @@ CS student at Florida International University, building full-stack applications
 
 ## Tech Stack
 
-**Languages:** Python, Java, JavaScript, HTML/CSS, SQL
-**Frameworks & Libraries:** React.js, Node.js, Express
-**Tools:** SQLite, Git, Docker, Linux/Unix, Vercel, NGINX
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" title="Python" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="48"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="48"/>
+</p>
 
 ## Featured Projects
 
@@ -39,4 +50,10 @@ Scam detection platform covering 4 threat vectors (URL, text, file, phone). Chro
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetrujilllo&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetrujilllo&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=felipetrujilllo&theme=default)
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=felipetrujilllo&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=felipetrujilllo&theme=default">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=felipetrujilllo&theme=default">
+  </picture>
+</p>
