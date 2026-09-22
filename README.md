@@ -25,7 +25,11 @@ CS student at Florida International University, building full-stack applications
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="48"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="48"/>
   <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="48"/>
 </p>
+
+**Also:** BoxLang · BoxLang AI · OAuth 2.0 · OpenAI API · REST API design
 
 ## Featured Projects
 
@@ -36,6 +40,10 @@ Full-stack academic planning platform with 8 RESTful API endpoints, deployed to 
 ### ScamAware — 1st Place, HackShells Hackathon
 `React.js` · `FastAPI` · `Python` · `Manifest V3`
 Scam detection platform covering 4 threat vectors (URL, text, file, phone). Chrome Extension (Manifest V3) intercepts link clicks, page visits, and downloads in real time, integrating VirusTotal and Google Safe Browsing APIs for risk verdicts.
+
+### BXForge (Agent Factory)
+`BoxLang` · `BoxLang AI` · `React.js` · `Tailwind CSS` · `Vite` · `Java`
+Built in a 27-hour hackathon (Ortus Solutions x FIU Tech Talent Academy) by a 4-person team. Generates a runnable BoxLang AI agent project from a plain-English problem description, then automatically runs the agent and has an AI judge evaluate the result — pipeline: description → structured spec (LLM) → scaffolded project → execution → pass/fail verdict with reasoning.
 
 ### Self-Hosted Home Server / Network Lab
 `Linux` · `Docker` · `NGINX`
