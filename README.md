@@ -1,3 +1,5 @@
+<img align="right" width="180" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 # Felipe Trujillo
 
 CS student at Florida International University, building full-stack applications and infrastructure. Currently seeking **Summer 2027 SWE internships**.
@@ -37,3 +39,4 @@ Scam detection platform covering 4 threat vectors (URL, text, file, phone). Chro
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetrujilllo&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetrujilllo&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=felipetrujilllo&theme=default)
