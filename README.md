@@ -4,32 +4,40 @@ CS student at Florida International University, building full-stack applications
 
 ## About
 
-- BS Computer Science @ Florida International University — GPA 3.72, expected December 2027
-- Project Lead Full Stack Engineer @ INIT Build — directing a 10-developer team through sprint cycles from planning to production
-- Previously IT/AV Technician @ FIU, maintaining campus infrastructure
+I like building things that people actually find useful. I have built a campus scheduling tool with real  users, a scam-detection extension that took 1st place at a small hackathon, an AI agent pipeline shipped in 27 hours. Most of my work sits in between full-stack software engineering and applied AI. I'm drawn to the parts of a system most people skip: the API contracts, the deploy pipeline, the infra underneath it all, or the server humming in the corner no one wants to maintain.
+
+- 🎓 BS Computer Science @ Florida International University — GPA 3.72, expected December 2027
+- 🛠️ Project Lead Full Stack Engineer @ INIT Build — steering a 10-developer team through sprint planning to production releases
+- 🖥️ Previously IT/AV Technician @ FIU — kept campus infrastructure running before I started building software on top of it
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" title="Python" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="48"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" title="React" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="48"/>
-  <img src="https://skillicons.dev/icons?i=express" title="Express" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="48"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="48"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Also:** BoxLang · BoxLang AI · OAuth 2.0 · OpenAI API · REST API design
+
+## Currently Learning
+
+- System Design
+- Server Infrastructure
+- Docker / Containerization <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="20"/>
+- Python <img src="https://skillicons.dev/icons?i=py" title="Python" height="20"/>
+- Cloud Platforms (AWS) <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="20"/>
 
 ## Featured Projects
 
