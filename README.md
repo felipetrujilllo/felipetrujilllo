@@ -64,7 +64,6 @@ Built in a 27-hour hackathon (Ortus Solutions x FIU Tech Talent Academy) by a 4-
 
 ## GitHub Stats
 
-![Felipe's GitHub stats]()
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetrujilllo&layout=compact)
 <p align="left">
   <picture>
